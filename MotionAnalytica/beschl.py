@@ -11,22 +11,22 @@ column_y = 'accelerometerAccelerationY(G)'
 column_z = 'accelerometerAccelerationZ(G)'
 timestamp = 'accelerometerTimestamp_sinceReboot(s)'
 
-mode = 1 #1 is acceleleration, 2 is speed, 3 is distance
+mode = 3 #1 is acceleleration, 2 is speed, 3 is distance
 
 
-data_ = ["1_Ole_1250cm_30Hz.csv",
+data_names = ["1_Ole_1250cm_30Hz.csv",
          "2_Ole_1400cm_100Hz.csv",
          "3_Ole_600cm_100Hz.csv",
          "4_Ole_600cm_100Hz.csv",
          "5_Ole_1700cm_100Hz.csv",
          "6_Ole_1600cm_100Hz.csv"]
-data = ["../data/2022_05_05_firstTry/csv/" + x for x in data_]
+data_path = ["../data/2022_05_05_firstTry/csv/" + x for x in data_names]
 
 while x == 1:
     try:
         """bez = input('Welche Daten sollen verwendet werden? ') + ".csv"""""
         bez = input('Welche Daten sollen verwendet werden? ')
-        file = data[int(bez)-1]
+        file = data_path[int(bez)-1]
         print(file)
         df = pd.read_csv(file)
         df.info()
