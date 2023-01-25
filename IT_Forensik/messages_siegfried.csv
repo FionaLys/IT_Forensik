@@ -1,0 +1,501 @@
+﻿#,Chat #,Kennung,Startzeit: Datum,Startzeit: Zeit,Letzte Aktivität: Datum,Letzte Aktivität: Zeit,Name,Beschreibung,Teilnehmer,Anzahl der Anhänge,Quelle,Konto,Gelöschte - Chat,Tag-Hinweis - Chat,Rekonstruiert,Manuell decodiert,Instant Message #,Von,An,Zeitstempel der Teilnehmer,Cc,Bcc,Priorität,Betreff,Text,Status,Plattform,Label,Ort,Zeitstempel: Datum,Zeitstempel: Zeit,Zugestellt: Datum,Zugestellt: Zeit,Gelesen: Datum,Gelesen: Zeit,Deletion Date: Datum,Deletion Date: Zeit,Anhang #1,Anhang #1 - Details,Gelöschte - Instant Message,Tag-Hinweis - Instant Message,Quelldatei-Informationen,Mit Sternchen markierte Nachricht,Mitteilung Rekonstruiert,Mitteilung Manuell decodiert
+1,1,4915225737497@s.whatsapp.net,17.12.2022,17.12.2022 20:01:00(UTC+1),19.12.2022,19.12.2022 11:49:24(UTC+1),,,"4915225737497@s.whatsapp.net Helmut Franz 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",,WhatsApp,491756643753@s.whatsapp.net,,,,,1,4915225737497@s.whatsapp.net Helmut Franz,,,,,,,Moin Siggi, lang nichts gehört. Wie gehts dir?,,Mobile,,,17.12.2022,17.12.2022 20:01:00(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x1576F (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5825 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+2,1,4915225737497@s.whatsapp.net,17.12.2022,17.12.2022 20:01:00(UTC+1),19.12.2022,19.12.2022 11:49:24(UTC+1),,,"4915225737497@s.whatsapp.net Helmut Franz 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",,WhatsApp,491756643753@s.whatsapp.net,,,,,2,System Message System Message,,,,,,,🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more,,Mobile,"System
+",,19.12.2022,19.12.2022 11:47:40(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x157E5 (Tabelle: message, Größe: 436752 Bytes)",Nein,,
+3,1,4915225737497@s.whatsapp.net,17.12.2022,17.12.2022 20:01:00(UTC+1),19.12.2022,19.12.2022 11:49:24(UTC+1),,,"4915225737497@s.whatsapp.net Helmut Franz 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",,WhatsApp,491756643753@s.whatsapp.net,,,,,3,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,"Hi Helmut, 
+alles beim alten, muss ja. 
+Wie stehts bei dir?",Zugestellt,Mobile,,,19.12.2022,19.12.2022 11:49:24(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15687 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+4,2,7277,15.12.2022,15.12.2022 00:44:54(UTC+1),15.12.2022,15.12.2022 00:44:54(UTC+1),7277,,"7277 
+Owner (Eigentümer) 
+",,Native Messages,,,,,,1,7277,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,Bei der Einrichtung Ihrer Datenoption ist ein Fehl,,Unknown,,,15.12.2022,15.12.2022 00:44:54(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5F1E (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+5,3,5,15.12.2022,15.12.2022 00:44:54(UTC+1),15.12.2022,15.12.2022 00:44:54(UTC+1),,,"(Eigentümer) Unbekannt 
+7277 
+",,Native Messages,,,,,,1,7277,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,Bei der Einrichtung Ihrer Datenoption ist ein Fehler aufgetreten. Bitte prüfen Sie, ob Ihr Prepaid Guthaben ausreicht, um Ihre gebuchte Datenoption im aktuellen Abrechnungszeitraum zu aktivieren. Sobald Sie Ihr Guthaben aufladen, wird wieder Ihre gebuchte Datenoption aktiviert. Um Daten zu nutzen, können Sie alternativ ein Angebot auf http://datapass.de auswählen.,Gelesen,Unknown,,,15.12.2022,15.12.2022 00:44:54(UTC+1),15.12.2022,15.12.2022 00:44:46(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14A9D5 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+6,4,Penny Mobil,11.12.2022,11.12.2022 08:51:03(UTC+1),14.12.2022,14.12.2022 13:34:57(UTC+1),Penny Mobil,,"Penny Mobil 
+Owner (Eigentümer) 
+",,Native Messages,,,,,,1,Penny Mobil,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,Um ihre Sprach- und Datenoption weiter nutzen zu k,,Unknown,,,11.12.2022,11.12.2022 08:51:03(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x55FC (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+7,4,Penny Mobil,11.12.2022,11.12.2022 08:51:03(UTC+1),14.12.2022,14.12.2022 13:34:57(UTC+1),Penny Mobil,,"Penny Mobil 
+Owner (Eigentümer) 
+",,Native Messages,,,,,,2,Penny Mobil,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,Sie können Ihre Sprach- und Datenoption nicht mehr,,Unknown,,,14.12.2022,14.12.2022 13:34:57(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x555E (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+8,5,4,11.12.2022,11.12.2022 08:51:03(UTC+1),14.12.2022,14.12.2022 13:34:57(UTC+1),,,"(Eigentümer) Unbekannt 
+Penny Mobil 
+",,Native Messages,,,,,,1,Penny Mobil,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,Um ihre Sprach- und Datenoption weiter nutzen zu können, laden Sie bitte Ihr Konto in den nächsten 3 Tagen auf. Sonst fallen Kosten gemäß Ihres Tarifs an.,Gelesen,Unknown,,,11.12.2022,11.12.2022 08:51:03(UTC+1),11.12.2022,11.12.2022 08:50:56(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14AC81 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+9,5,4,11.12.2022,11.12.2022 08:51:03(UTC+1),14.12.2022,14.12.2022 13:34:57(UTC+1),,,"(Eigentümer) Unbekannt 
+Penny Mobil 
+",,Native Messages,,,,,,2,Penny Mobil,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,Sie können Ihre Sprach- und Datenoption nicht mehr nutzen. Zur Reaktivierung der Option bitte aufladen. Solange fallen Kosten gemäß Ihres Tarifs an.,Gelesen,Unknown,,,14.12.2022,14.12.2022 13:34:57(UTC+1),14.12.2022,14.12.2022 08:57:01(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14AB98 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+10,6,Helmut Franz,07.12.2022,07.12.2022 12:22:56(UTC+1),07.12.2022,07.12.2022 12:22:56(UTC+1),Helmut Franz,,"Owner (Eigentümer) 
++4915225737497 Helmut Franz 
+",,Native Messages,,,,,,1,Owner,"+4915225737497 Helmut Franz 
+","+4915225737497 Helmut Franz 
+",,,,,Moin, wie geht's? Lange nichts von dir gehört...,,Unknown,,,07.12.2022,07.12.2022 12:22:56(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x569C (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+11,7,3,07.12.2022,07.12.2022 12:22:56(UTC+1),07.12.2022,07.12.2022 12:22:59(UTC+1),,,"(Eigentümer) Unbekannt 
++4915225737497 Helmut Franz 
+",,Native Messages,,,,,,1,,"+4915225737497 Helmut Franz 
+","+4915225737497 Helmut Franz 
+",,,,,Moin, wie geht's? Lange nichts von dir gehört...,Gesendet,Unknown,,,07.12.2022,07.12.2022 12:22:59(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14AD72 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+12,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,1,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,,,Mobile,,,06.12.2022,06.12.2022 14:49:06(UTC+1),,,,,,,IMG-20221206-WA0000.jpg,"...guck, das meinte ich eben!
+https://mmg.whatsapp.net/d/f/AvtVaHcmHnNpwBDKy0bq2_9qCkyqAUnKTypf5h_gWtCo.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CE68 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x17ACF (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221206-WA0000.jpg :  (Größe: 279988 Bytes)",Nein,,
+13,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,2,System Message System Message,,,,,,,🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more,,Mobile,"System
+",,06.12.2022,06.12.2022 14:49:07(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CE27 (Tabelle: message, Größe: 1150976 Bytes)",Nein,,
+14,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,3,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Stimmt. War echt ein toller Urlaub 😄,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:51:32(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CECC (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+15,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,4,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Nächstes Jahr nehmen wir Bosse dann mit,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:51:53(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CF39 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+16,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,5,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Ja total, wir könnten den ja demnächst planen? Bin grade wieder flüssig,,Mobile,,,06.12.2022,06.12.2022 14:52:15(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CFA8 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+17,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,6,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Wie wärs mit Schweden?,,Mobile,,,06.12.2022,06.12.2022 14:52:34(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DFDB (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+18,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,7,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Wär cool,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:52:55(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DF8D (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+19,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,8,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Sollte finanziell dann wiede rpassen,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:53:17(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DF23 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+20,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,9,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Dann haben wir nen Plan, können uns ja schon mal nach Unterkünften umschauen, die hundefreundlich sind,,Mobile,,,06.12.2022,06.12.2022 14:53:44(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DE74 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+21,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,10,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Vielleicht eine Hütte in den Schären,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:54:08(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DE07 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+22,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,11,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Oh yes,,Mobile,,,06.12.2022,06.12.2022 14:54:15(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DDBA (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+23,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,12,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Das wird nice,,Mobile,,,06.12.2022,06.12.2022 14:54:27(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DD67 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+24,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,13,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,,,Mobile,,,06.12.2022,06.12.2022 14:55:54(UTC+1),,,,,,,IMG-20221206-WA0001.jpg,"https://www.ferienhaus-schweden.de/ferienhaeuser-schweden/ferienhaus-schaerenkueste-vor-stockholm.html
+https://mmg.whatsapp.net/d/f/AvT5iYU3IyHROHvT6LB6yaUzgsdRec3AWTwDNmsknYi5.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DCBB (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x17CF8 (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221206-WA0001.jpg :  (Größe: 126832 Bytes)",Nein,,
+25,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,14,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Finde das chic...,,Mobile,,,06.12.2022,06.12.2022 14:55:59(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DC62 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+26,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,15,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Am see ist schon cool, aber auch sehr teuer...,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:58:35(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DBEF (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+27,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,16,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,https://www.ferienhaus-smaland.de/ferienhaeuser/#/details/1674388,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:58:39(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DB68 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+28,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,17,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Was hältst du von dem?,Gelesen,Mobile,,,06.12.2022,06.12.2022 14:58:54(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DB09 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+29,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,18,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Auch sehr cool, das Grundstück sieht gut aus für ein Hund!,,Mobile,,,06.12.2022,06.12.2022 15:01:06(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DA86 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+30,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,19,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Dachte ich auch,Gelesen,Mobile,,,06.12.2022,06.12.2022 19:45:59(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D7B8 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+31,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,20,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Treffen wir uns morgen eigentlich bei dir oder bei mir?,Gelesen,Mobile,,,15.12.2022,15.12.2022 10:57:47(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15DA1 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+32,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,21,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Wir könnten bei mir kochen?,,Mobile,,,15.12.2022,15.12.2022 11:37:07(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15D3E (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+33,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,22,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Klingt gut. Wie wäre es mit Lasagne?,Gelesen,Mobile,,,15.12.2022,15.12.2022 11:37:34(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15CD4 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+34,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,23,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Oh ja, gute Idee!,,Mobile,,,15.12.2022,15.12.2022 11:37:50(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15C7C (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+35,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,24,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Dann bin ich um 16 Uhr bei dir und wir gehen dann zusammen einkaufne,Gelesen,Mobile,,,15.12.2022,15.12.2022 12:01:03(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15BF3 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+36,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,25,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Klingt nach nem Plan :),,Mobile,,,15.12.2022,15.12.2022 12:04:37(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15B93 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+37,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,26,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Freue mich auf nachher!,Gelesen,Mobile,,,16.12.2022,16.12.2022 08:27:03(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x1590F (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+38,8,4915206056844@s.whatsapp.net,06.12.2022,06.12.2022 14:49:06(UTC+1),16.12.2022,16.12.2022 13:47:06(UTC+1),,,"4915206056844@s.whatsapp.net Hazel Hartley 
+491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+",2,WhatsApp,491756643753@s.whatsapp.net,,,,,27,4915206056844@s.whatsapp.net Hazel Hartley,,,,,,,Ich mich auch 🥰,,Mobile,,,16.12.2022,16.12.2022 13:47:06(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15826 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5B21 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+39,9,Huberta d. Große,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:40(UTC+1),Huberta d. Große,,"Owner (Eigentümer) 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,1,Owner,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,"Ruf mich einfach zurück wenn es dir passt.
+Siggi",,Unknown,,,05.12.2022,05.12.2022 12:37:18(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5DE9 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+40,9,Huberta d. Große,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:40(UTC+1),Huberta d. Große,,"Owner (Eigentümer) 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,2,Owner,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,Ich brauche noch deine Bankverbindung. Wir machen ,,Unknown,,,15.12.2022,15.12.2022 11:24:35(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5491 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+41,9,Huberta d. Große,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:40(UTC+1),Huberta d. Große,,"Owner (Eigentümer) 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,3,+491756654642 Huberta d. Große,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,"Huberta die Große
+DE17 1203 0000 1050 DE17 1203 00",,Unknown,,,16.12.2022,16.12.2022 09:26:39(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x53C2 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+42,9,Huberta d. Große,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:40(UTC+1),Huberta d. Große,,"Owner (Eigentümer) 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,4,+491756654642 Huberta d. Große,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,die untere ist es...,,Unknown,,,16.12.2022,16.12.2022 09:27:11(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5312 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+43,9,Huberta d. Große,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:40(UTC+1),Huberta d. Große,,"Owner (Eigentümer) 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,5,Owner,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,👍,,Unknown,,,16.12.2022,16.12.2022 09:27:40(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5270 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+44,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,1,,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,"Ruf mich einfach zurück wenn es dir passt.
+Siggi",Gesendet,Unknown,,,05.12.2022,05.12.2022 12:37:20(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14ADE3 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+45,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,2,,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,Ich brauche noch deine Bankverbindung. Wir machen 50:50 wie immer! ,Unverschickt,Unknown,,,15.12.2022,15.12.2022 11:24:35(UTC+1),,,,,,,,,Ja,,userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x102299 (Größe: 1388472 Bytes),Nein,,
+46,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,3,,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,Ich brauche noch deine Bankverbindung. Wir machen 50:50 wie immer! ,Gesendet,Unknown,,,15.12.2022,15.12.2022 11:24:39(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14A959 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+47,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,4,+491756654642 Huberta d. Große,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,"Huberta die Große
+DE17 1203 0000 1050 DE17 1203 0000 1050 9100 50",Gelesen,Unknown,,,16.12.2022,16.12.2022 09:26:39(UTC+1),16.12.2022,16.12.2022 09:26:37(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14A8C3 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+48,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,5,+491756654642 Huberta d. Große,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,die untere ist es...,Gelesen,Unknown,,,16.12.2022,16.12.2022 09:27:11(UTC+1),16.12.2022,16.12.2022 09:27:11(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14A85B (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+49,10,2,05.12.2022,05.12.2022 12:37:18(UTC+1),16.12.2022,16.12.2022 09:27:42(UTC+1),,,"(Eigentümer) Unbekannt 
++491756654642 Huberta d. Große 
+",,Native Messages,,,,,,6,,"+491756654642 Huberta d. Große 
+","+491756654642 Huberta d. Große 
+",,,,,👍,Gesendet,Unknown,,,16.12.2022,16.12.2022 09:27:42(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14A817 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+50,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,1,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Hallo Siegfried,,,Mobile,,,29.11.2022,29.11.2022 10:51:11(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C678 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+51,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,2,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Was brauchst du denn am ehesten für welche?,,Mobile,,,29.11.2022,29.11.2022 10:51:29(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C6CE (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+52,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,3,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Ich wollte heute mal an der Uni mich umschauen.,,Mobile,,,29.11.2022,29.11.2022 10:51:46(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C740 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+53,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,4,System Message System Message,,,,,,,🔒 Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more,,Mobile,"System
+",,29.11.2022,29.11.2022 14:30:00(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C637 (Tabelle: message, Größe: 1150976 Bytes)",Nein,,
+54,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,5,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Hey Huberta. Wenn du was in Richtung E-Bike oder Rennrad findest wäre das perfekt.,Gelesen,Mobile,,,29.11.2022,29.11.2022 15:08:32(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C7B8 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+55,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,6,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Schick mir bei Gelegenheit mal paar bilder und ich beurteile das dann einmal,Gelesen,Mobile,,,29.11.2022,29.11.2022 15:09:07(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C853 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+56,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,7,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,,,Mobile,,,01.12.2022,01.12.2022 08:49:44(UTC+1),,,,,,,IMG-20221201-WA0000.jpg,"https://mmg.whatsapp.net/d/f/AlRUXZajz7dHPiiUh3-lQwJ1IwJdu_1cqT41_mWlVZJJ.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C8E4 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x168D2 (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221201-WA0000.jpg :  (Größe: 160182 Bytes)",Nein,,
+57,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,8,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,,,Mobile,,,01.12.2022,01.12.2022 08:49:44(UTC+1),,,,,,,IMG-20221201-WA0003.jpg,"https://mmg.whatsapp.net/d/f/Ag2sCJX6DevcithuympvQVka7qcfvEK9xd00Wlw2SFoX.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C92A (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x16AFA (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221201-WA0003.jpg :  (Größe: 134111 Bytes)",Nein,,
+58,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,9,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,,,Mobile,,,01.12.2022,01.12.2022 08:49:45(UTC+1),,,,,,,IMG-20221201-WA0002.jpg,"https://mmg.whatsapp.net/d/f/Aoony4OUFh8IQl6T9ZlTIPLNji6KEMW5emcwY6Ys9gDl.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C970 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x16D23 (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221201-WA0002.jpg :  (Größe: 150288 Bytes)",Nein,,
+59,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,10,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,,,Mobile,,,01.12.2022,01.12.2022 08:49:45(UTC+1),,,,,,,IMG-20221201-WA0001.jpg,"https://mmg.whatsapp.net/d/f/Ag9Ynp8G2dq85q3QkTVcsfchSAbRdOCII50OgelmeN9V.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C9B6 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x16F4C (Tabelle: message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/IMG-20221201-WA0001.jpg :  (Größe: 168070 Bytes)",Nein,,
+60,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,11,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Die habe ich gestern gesehen, was meinst du?,,Mobile,,,01.12.2022,01.12.2022 08:49:59(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10C9FC (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+61,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,12,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Das erste finde ich super. Sieht neu und hochwertig aus. Damit könnten wir schonmal anfangen 😉,Gelesen,Mobile,,,01.12.2022,01.12.2022 16:08:03(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CA71 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+62,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,13,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Die marke des bikes kenne ich auch. Das würde ordentlich kohle einbringen,Gelesen,Mobile,,,01.12.2022,01.12.2022 16:08:47(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CB1B (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+63,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,14,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,"Hey Huberta, 
+Sry, hab voll vergessen dich anzurufen. Wir wollten ja nochmal über die räder reden. 
+Ich hab morgen gegen 14 Uhr Mittagspause oder sonst einfach spontan",Gelesen,Mobile,,,04.12.2022,04.12.2022 21:37:55(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CBAD (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+64,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,15,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,,Gelesen,Mobile,,,05.12.2022,05.12.2022 18:58:03(UTC+1),,,,,,,IMG-20221205-WA0000.jpg,"Das könnte das erste Fahrrad sein oder?
+https://mmg.whatsapp.net/d/f/Ama7dXicUi2QHt__THeVXNYkm3y5nGhJyJNdiENVxRzf.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CC9D (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/Sent/IMG-20221205-WA0000.jpg :  (Größe: 69608 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x17120 (Tabelle: message_media, Größe: 436752 Bytes)",Nein,,
+65,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,16,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Würde sich voll lohnen!,Gelesen,Mobile,,,05.12.2022,05.12.2022 18:58:22(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CD11 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+66,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,17,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Solche Fahrräder sind gerade auch voll gefragt, bei den aktuellen Lieferschwierigkeiten sollte das gut weggehen,Gelesen,Mobile,,,05.12.2022,05.12.2022 19:00:05(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10CD71 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+67,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,18,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Ja genau das ist es!,,Mobile,,,06.12.2022,06.12.2022 16:20:15(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10DA2A (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+68,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,19,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,ich klingel gleich mal durch,  rannte reden wir über den Drahtesel und wie die Nummer ablaufen könnte.,,Mobile,,,06.12.2022,06.12.2022 16:20:49(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D97C (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+69,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,20,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,gut das es gleich geklappt hat. dann werde ich heute abend mal versuchen das Fahrrad zu besorgen. wir reden dann morgen mal drüber wie du an das fahrrad kommen könntest und überlegen uns eine gute Übergabe!,,Mobile,,,06.12.2022,06.12.2022 16:49:27(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D862 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+70,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,21,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Machen wir so!,Gelesen,Mobile,,,06.12.2022,06.12.2022 19:45:48(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D80D (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+71,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,22,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Halt gerne weiter Ausschau,Gelesen,Mobile,,,06.12.2022,06.12.2022 19:46:15(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D758 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+72,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,23,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Wie ist es gelaufen?,Gelesen,Mobile,,,07.12.2022,07.12.2022 10:40:11(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D6FE (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+73,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,24,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Morgen Siggi,  ich hab gestern abend zugeschlagen. der gute Drahtesel befindet sich jetzt in unserem besitzt! ich denke einige Reperaturen müssten wir noch vornehmen. machen wir es wie immer über ebay?,,Mobile,,,08.12.2022,08.12.2022 10:22:45(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D5EC (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+74,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,25,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Hast du noch deinen ebay-account?,,Mobile,,,08.12.2022,08.12.2022 10:26:22(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D583 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+75,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,26,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,und wie heißt du auf ebay nochmal gleich? dann würde ich mir das mal anschauen.,,Mobile,,,08.12.2022,08.12.2022 10:26:47(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D4EC (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+76,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,27,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Übergabe Ort für das fahrrad machen wir dann noch aus?,,Mobile,,,08.12.2022,08.12.2022 10:27:02(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D46C (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+77,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,28,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,"Gut. Um die Reparatur kümmere ich mich. 
+Die Übergabe machen wir am besten relativ zentral in Lüneburg, da kommen wir beide nach der Arbeit gut hin.",Gelesen,Mobile,,,08.12.2022,08.12.2022 12:01:23(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D390 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+78,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,29,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Genau, Ebay hat sich bewährt,Gelesen,Mobile,,,08.12.2022,08.12.2022 12:01:41(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D32B (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+79,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,30,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,"Morgen Siggi, ich habe gestern auf dem Nachhauseweg noch ein Rad gesehen was dir sehr gefallen wird denke ich. Habe es jetzt einfach mal gleich mitgenommen. so eine Situation ergibt sich selten! 
+hab einen schönen tag, die rollende Huberta ,)",,Mobile,,,12.12.2022,12.12.2022 09:26:24(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D1F1 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+80,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,31,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Das klingt sehr gut!,Gelesen,Mobile,,,12.12.2022,12.12.2022 18:58:00(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D196 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+81,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,32,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Zwei Fahrräder zu verkaufen ist ja unauffällig,Gelesen,Mobile,,,12.12.2022,12.12.2022 18:58:35(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D120 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+82,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,33,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Passt dir eine Übergabe am Mittwoch?,Gelesen,Mobile,,,12.12.2022,12.12.2022 18:58:53(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db : 0x10D0B5 (Tabelle: message, Größe: 1150976 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+83,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,34,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Vielleicht könnten wir die Räder dann noch vor Weihnachten verticken,Gelesen,Mobile,,,12.12.2022,12.12.2022 18:59:11(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x161DD (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+84,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,35,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,perfekt, dann machen wir die Übergabe der Fahrräder morgen. hast du eine Ort der sich gut eignet? ich muss ja irgendwo mit meinem Transporter hinkommen können.,,Mobile,,,13.12.2022,13.12.2022 08:56:04(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x160F2 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+85,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,36,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,und dann stellst du die räder einfach gleich ein, dann kriegen wir die vielleicht echt bald schon weg.,,Mobile,,,13.12.2022,13.12.2022 08:56:37(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x16043 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+86,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,37,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,"Kennst du das McFit am Bahnhof? Ich würd vorschlagen, dass wir uns da treffen und die Fahrräder übergeben.
+Passt dir ca. 15:15?",Gelesen,Mobile,,,14.12.2022,14.12.2022 13:35:30(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15F7A (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+87,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,38,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,machen wir so. dann bring ich dir die Räder dahin!,,Mobile,,,14.12.2022,14.12.2022 13:36:28(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15EFE (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+88,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,39,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Gut,Gelesen,Mobile,,,14.12.2022,14.12.2022 13:36:55(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15EB6 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+89,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,40,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Bin da,Gelesen,Mobile,,,14.12.2022,14.12.2022 15:21:40(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15E6A (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+90,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,41,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,,Gelesen,Mobile,,,14.12.2022,14.12.2022 15:21:46(UTC+1),,,,,,,IMG-20221214-WA0001.jpg,"https://mmg.whatsapp.net/d/f/Are1T84RzYy90P_Kf4LH5IiLP1h_JPWloVKpkI2Nk6U6.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15E1E (Tabelle: message, message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/Sent/IMG-20221214-WA0001.jpg :  (Größe: 131184 Bytes)",Nein,,
+91,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,42,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,,Gelesen,Mobile,,,15.12.2022,15.12.2022 12:55:13(UTC+1),,,,,,,IMG-20221215-WA0000.jpg,"Die Anzeige ist raus. Muss nur noch durch die Sicherheitsprüfung
+https://mmg.whatsapp.net/d/f/Av8T3G6w8as8sLE63-WyT6kTSjU4ABN8_RqIiFFWHC31.enc
+",,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15B07 (Tabelle: message, message_media, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)
+userdata (ExtX)/Root/media/0/WhatsApp/Media/WhatsApp Images/Sent/IMG-20221215-WA0000.jpg :  (Größe: 160341 Bytes)",Nein,,
+92,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,43,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Was meinst du?,Gelesen,Mobile,,,15.12.2022,15.12.2022 12:55:39(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15AB0 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+93,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,44,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,Das sieht gut aus!,,Mobile,,,16.12.2022,16.12.2022 09:24:06(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x1596B (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+94,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,45,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,Sicherheitsprüfung hat geklappt! Mal sehen, wann sich der erste Interessent meldet,Gelesen,Mobile,,,16.12.2022,16.12.2022 09:51:43(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15A17 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+95,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,46,491756654642@s.whatsapp.net Huberta d. Große,,,,,,,meld dich wenn man dich beim Verkauf der Räder noch unterstützen kann!,,Mobile,,,16.12.2022,16.12.2022 13:46:42(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x15880 (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/databases/wa.db-wal : 0x5A12 (Tabelle: wa_contacts, Größe: 420272 Bytes)",Nein,,
+96,11,491756654642@s.whatsapp.net,29.11.2022,29.11.2022 10:51:11(UTC+1),16.12.2022,16.12.2022 19:02:49(UTC+1),,,"491756643753@s.whatsapp.net Siegfried Müller (Eigentümer) 
+491756654642@s.whatsapp.net Huberta d. Große 
+",7,WhatsApp,491756643753@s.whatsapp.net,,,,,47,491756643753@s.whatsapp.net Siegfried Müller,,,,,,,👍,Gelesen,Mobile,,,16.12.2022,16.12.2022 19:02:49(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.whatsapp/databases/msgstore.db-wal : 0x159CB (Tabelle: message, Größe: 436752 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/registration.RegisterPhone.xml : 0x87 (Größe: 707 Bytes)
+userdata (ExtX)/Root/data/com.whatsapp/shared_prefs/startup_prefs.xml : 0x151 (Größe: 771 Bytes)",Nein,,
+97,12,WhatsApp,28.11.2022,28.11.2022 01:50:41(UTC+1),28.11.2022,28.11.2022 01:50:41(UTC+1),WhatsApp,,"WhatsApp 
+Owner (Eigentümer) 
+",,Native Messages,,,,,,1,WhatsApp,"Owner (Eigentümer) 
+","Owner (Eigentümer) 
+",,,,,"Dein WhatsApp Code: 240-303
+
+Tippe auf den Link, u",,Unknown,,,28.11.2022,28.11.2022 01:50:41(UTC+1),,,,,,,,,,,"userdata (ExtX)/Root/data/com.sec.android.provider.logsprovider/databases/logs.db : 0x5FB2 (Tabelle: logs, Größe: 69632 Bytes)",Nein,,
+98,13,1,28.11.2022,28.11.2022 01:50:41(UTC+1),28.11.2022,28.11.2022 01:50:41(UTC+1),,,"(Eigentümer) Unbekannt 
+WhatsApp 
+",,Native Messages,,,,,,1,WhatsApp,"(Eigentümer) Unbekannt 
+","(Eigentümer) Unbekannt 
+",,,,,"Dein WhatsApp Code: 240-303
+
+Tippe auf den Link, um deine Nummer zu verifizieren: v.whatsapp.com/240303
+
+Teile diesen Code nicht mit anderen.",Gelesen,Unknown,,,28.11.2022,28.11.2022 01:50:41(UTC+1),28.11.2022,28.11.2022 01:50:39(UTC+1),,,,,,,,,"userdata (ExtX)/Root/data/com.android.providers.telephony/databases/mmssms.db-wal : 0x14AE50 (Tabelle: sms, Größe: 1388472 Bytes)",Nein,,
+99,14,Status: 4915225737497@s.whatsapp.net,,,,,,,"4915225737497@s.whatsapp.net Helmut Franz 
+",,WhatsApp,491756643753@s.whatsapp.net,Ja,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
